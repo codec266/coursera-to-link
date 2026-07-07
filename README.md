@@ -1,5 +1,14 @@
-# Coursera to Link
+<div align="center">
+    <img src="icons/icon-128.png" alt="icon">
+    <p><em>Coursera to Link</em></p>
+<p>
+  
+[![License](https://img.shields.io/badge/license-MIT-green?logo=open-source-initiative)](LICENSE)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?logo=ko-fi)](https://ko-fi.com/codec266)
 
+</div>
+
+## Screenshot
 ![Screenshot showing the Share button on Coursera](screenshot.png)
 
 **Note: This extension is currently for Firefox only.**
