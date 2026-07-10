@@ -2,7 +2,8 @@
     <img src="icons/icon-128.png" alt="icon">
     <p><em>Coursera to Link</em></p>
 <p>
-  
+
+[![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--on-FF7139?logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/addon/coursera-to-link/)
 [![License](https://img.shields.io/badge/license-MIT-green?logo=open-source-initiative)](LICENSE)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?logo=ko-fi)](https://ko-fi.com/codec266)
 
